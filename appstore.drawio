@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T08:18:09.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="V99BwUZB5Q2UnuN7dR5x" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T08:19:48.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="e3f3OsEfLa9JyYK4GVUx" version="21.6.8" type="github">
   <diagram name="第 1 页" id="MIGqMtCCGvQdlfg0W5bE">
     <mxGraphModel dx="743" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,6 +108,15 @@
         </mxCell>
         <mxCell id="1Fys2giVCTjI-cnfL6u5-34" value="安装管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="444" y="1010" width="25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fys2giVCTjI-cnfL6u5-35" value="TSP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1129" width="35" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fys2giVCTjI-cnfL6u5-36" value="SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="388.5" y="1129" width="36" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fys2giVCTjI-cnfL6u5-37" value="ROM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="444" y="1129" width="36" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
